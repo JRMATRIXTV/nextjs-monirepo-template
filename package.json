@@ -1,0 +1,12 @@
+{
+    "name": "@jrmatrixtv/nextjs-monorepo-template",
+    "version": "1.0.0",
+    "description": "A monorepo template for NextJS typescript projects",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "JRMATRIX",
+    "license": "ISC"
+}
